@@ -1,0 +1,10 @@
+﻿
+This projec was configured for:
+
+Using NuGet without committing packages to source control
+http://docs.nuget.org/docs/workflows/using-nuget-without-committing-packages
+
+For this reason packages are not incluided with the project/solution.
+
+Package Restore and Consent
+http://blog.nuget.org/20120518/package-restore-and-consent.html

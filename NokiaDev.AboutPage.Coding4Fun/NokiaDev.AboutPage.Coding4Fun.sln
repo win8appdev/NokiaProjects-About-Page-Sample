@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NokiaDev.AboutPageSample.WP7", "NokiaDev.AboutPageSample.WP7\NokiaDev.AboutPageSample.WP7.csproj", "{931AFFC7-2BD7-42F5-891A-10755F62D90E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NokiaDev.AboutPageSample.WP8", "NokiaDev.AboutPageSample.WP8\NokiaDev.AboutPageSample.WP8.csproj", "{011A1933-4680-4545-A5B1-2E043DE9C07B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{931AFFC7-2BD7-42F5-891A-10755F62D90E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931AFFC7-2BD7-42F5-891A-10755F62D90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931AFFC7-2BD7-42F5-891A-10755F62D90E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{931AFFC7-2BD7-42F5-891A-10755F62D90E}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{931AFFC7-2BD7-42F5-891A-10755F62D90E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{931AFFC7-2BD7-42F5-891A-10755F62D90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931AFFC7-2BD7-42F5-891A-10755F62D90E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{931AFFC7-2BD7-42F5-891A-10755F62D90E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{931AFFC7-2BD7-42F5-891A-10755F62D90E}.Release|ARM.ActiveCfg = Release|Any CPU
+		{931AFFC7-2BD7-42F5-891A-10755F62D90E}.Release|x86.ActiveCfg = Release|Any CPU
+		{011A1933-4680-4545-A5B1-2E043DE9C07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{011A1933-4680-4545-A5B1-2E043DE9C07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{011A1933-4680-4545-A5B1-2E043DE9C07B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{011A1933-4680-4545-A5B1-2E043DE9C07B}.Debug|ARM.ActiveCfg = Debug|ARM
+		{011A1933-4680-4545-A5B1-2E043DE9C07B}.Debug|ARM.Build.0 = Debug|ARM
+		{011A1933-4680-4545-A5B1-2E043DE9C07B}.Debug|ARM.Deploy.0 = Debug|ARM
+		{011A1933-4680-4545-A5B1-2E043DE9C07B}.Debug|x86.ActiveCfg = Debug|x86
+		{011A1933-4680-4545-A5B1-2E043DE9C07B}.Debug|x86.Build.0 = Debug|x86
+		{011A1933-4680-4545-A5B1-2E043DE9C07B}.Debug|x86.Deploy.0 = Debug|x86
+		{011A1933-4680-4545-A5B1-2E043DE9C07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{011A1933-4680-4545-A5B1-2E043DE9C07B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{011A1933-4680-4545-A5B1-2E043DE9C07B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{011A1933-4680-4545-A5B1-2E043DE9C07B}.Release|ARM.ActiveCfg = Release|ARM
+		{011A1933-4680-4545-A5B1-2E043DE9C07B}.Release|ARM.Build.0 = Release|ARM
+		{011A1933-4680-4545-A5B1-2E043DE9C07B}.Release|ARM.Deploy.0 = Release|ARM
+		{011A1933-4680-4545-A5B1-2E043DE9C07B}.Release|x86.ActiveCfg = Release|x86
+		{011A1933-4680-4545-A5B1-2E043DE9C07B}.Release|x86.Build.0 = Release|x86
+		{011A1933-4680-4545-A5B1-2E043DE9C07B}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
